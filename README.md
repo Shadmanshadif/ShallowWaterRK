@@ -1,0 +1,1 @@
+This file contains all C code provided to do simulation of shallow water using Euler Method, Adam Bashforth and Runge Kutta. Also contain Python code to represent it and another ones of mass and energy conservation
